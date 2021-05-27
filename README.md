@@ -72,7 +72,7 @@ Build a predictive model so as to suggest the most suitable crops to grow based 
      __Evaluation Matrix:-__
      We use the evaluation matrix to analysis the perfomance and trust of our model. Evaluation matrix gives us a accuracy score and with the help of that score we can                understand how much our model is accurate.
      
-     ## Result
+  ## Result
      So according to classification report our precision values and recall values are very high. So Our model is accurate.
      To check the results are correct or not. In this case we input values in the model for a particular crop and then check the return output will be that particular crop or        not. 
 
