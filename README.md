@@ -46,7 +46,7 @@ Build a predictive model so as to suggest the most suitable crops to grow based 
 -  7. Now we should create a function that let us know which crops have low requirements from the average and which crops have high requirements from the average.
 -  8. Let's check the distributions of all the soil and climatic conditions for all the crops present in this data set.
 -  9. Now use the filter function of python to find out the name of crops which has unusual requirements.
--  10. Let's understand which crops can only grow in sumer , winter and rainy season.
+-  10. Let's understand which crops can only grow in summer , winter and rainy season.
 
 ## Model Building
 - 1. In this I am using clustering analysis. Clustering analysis is a technique that is used to classify data points in to relative groups that are called clusters.  we can assign similar data points in one group. same as we can build different different groups.  Infact Clustering analysis is count in unsupervised category that means we can train our model without labels.
@@ -70,7 +70,7 @@ Build a predictive model so as to suggest the most suitable crops to grow based 
      To check the model perfomance we have many differents types of evaluation matrixes. With the help of these matrixes we can find how much accurate is our model and how much      trust we can on our model.
 
      __Evaluation Matrix:-__
-     We use the evaluation matrix to analysis the perfomance and trust of our model. Evaluation matrix gives us a accuracy score and with the help of that score we can                understand how much our model is accurate.
+     We use the evaluation matrix to analysis the performance and trust of our model. Evaluation matrix gives us a accuracy score and with the help of that score we can                understand how much our model is accurate.
      
   ## Result
      So according to classification report our precision values and recall values are very high. So Our model is accurate.
